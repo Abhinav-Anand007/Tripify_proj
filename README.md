@@ -11,4 +11,4 @@
 7) Now we are good to go. Use command- python manage.py runserver<br>
 8) Copy the server url and paste it in your browser.<br>
 9) Enjoy using tripify 🙂.<br>
-<h2>Welcome to Tripify!!</h2>
+<h2>Welcome to Tripify!!🚗</h2>
