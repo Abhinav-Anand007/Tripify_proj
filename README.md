@@ -10,4 +10,5 @@
 -> pip install django-crispy-forms<br>
 7) Now we are good to go. Use command- python manage.py runserver<br>
 8) Copy the server url and paste it in browser.<br>
+9) Enjoy using tripify 🙂.<br>
 <h2>Welcome to Tripify!!</h2>
