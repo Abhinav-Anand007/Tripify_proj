@@ -18,4 +18,13 @@
 
 ![Screenshot (21)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/5fb7f8de-3ff2-4d59-b8e0-9dc46bb8851a)
 ![Screenshot (24)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/c1053ae4-0a14-40d7-a7c3-231dc865c3b2)
+![Screenshot (23)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/4b2e7734-9018-4ef7-a00a-75f9d6bb3ab8)
+![Screenshot (181)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/0b024ec6-b311-4338-a650-2e8595df4a35)
+![Screenshot (28)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/36830a7a-647e-4526-86d3-5528b655b7c4)
+![Screenshot (29)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/38a155cd-e952-4110-9bc9-edc78ee148ad)
+![Screenshot (39)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/797b550e-ff0a-4d5e-a13a-62d1286fb168)
+![Screenshot (56)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/941fd6a3-bd03-4854-a6c4-629ab2ccb529)
+![Screenshot (60)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/41590814-395a-4801-b504-af36d104dd36)
+
+
 
