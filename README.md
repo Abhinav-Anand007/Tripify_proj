@@ -1,3 +1,4 @@
+
 # Tripify_proj
 <h2>A shuttle service for college students</h2> <br>
 1) Download the code as zip folder and extract it. <br>
@@ -9,6 +10,13 @@
 -> pip install django<br>
 -> pip install django-crispy-forms<br>
 7) Now we are good to go. Use command- python manage.py runserver<br>
-8) Copy the server url and paste it in your browser.<br>
+8) Copy the server url and paste it in your browser.<br>![Uploading Screenshot (56).png…]()
+
 9) Enjoy using tripify 🙂.<br>
 <h2>Welcome to Tripify!!🚗</h2>
+
+<b>Screenshots</b>
+
+![Screenshot (21)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/5fb7f8de-3ff2-4d59-b8e0-9dc46bb8851a)
+![Screenshot (24)](https://github.com/Abhinav-Anand007/Tripify_proj/assets/100045913/c1053ae4-0a14-40d7-a7c3-231dc865c3b2)
+
